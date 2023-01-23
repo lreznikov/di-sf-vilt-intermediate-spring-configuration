@@ -2,6 +2,6 @@ server:
   port: 8082
 
 numberguessing:
-  attempts: 3
+  attempts: 5
   maxNumber: 750
   cheating: false
